@@ -1,6 +1,6 @@
-package proyectopoo1_10;
+package ec.edu.espol;
 
-public abstract class Usuario {
+public class Usuario {
     private String codigoUnico;
     private String cedula;
     private String nombre;
@@ -47,4 +47,7 @@ public abstract class Usuario {
     public void gestionarPedido(String codigo){
 
     }
+
+
+
 }
